@@ -1,0 +1,362 @@
+```json
+{
+  "task_0": "Boeing is committed to fostering a culture based on our core values of safety, quality and integrity.",
+  "task_1": "commercial airplanes, defense products and space systems",
+  "task_0": "not found",
+  "task_3": "not found",
+  "task_4": "Kelly Ortberg (President and Chief Executive Officer), Brian West (Chief Financial Officer), Stephanie Pope (Executive Vice President, President and Chief Executive Officer, Boeing Commercial Airplanes), Uma Amuluru (Chief Human Resources Officer), Dana Deasy (Chief Information Digital Officer), Brett C. Gerry (Chief Legal Officer), Darrin A. Hostetler (Chief Compliance Officer), Howard McKenzie (Chief Engineer), Brian Moran (Chief Sustainability Officer), Dr. Brendan Nelson (President, Boeing Global), Stephen (Steve) Parker (Chief Operating Officer), Chris Raymond (Executive Vice President, President and Chief Executive Officer, Boeing Global Services), Don Ruhmann (Chief Aerospace Safety Officer), Ann M. Schmidt (Chief Communications and Brand Officer), Jeff Shockey (Executive Vice President)",
+  "task_5": "not found"
+}
+```
+```json
+{
+  "task_0": "We distilled our Business Principles into four core values that inform everything we do: Partnership, Client Service, Integrity, and Excellence.",
+  "task_1": "Investment banking, FICC, Equities, Asset management, Wealth management, and Alternative investments.",
+  "task_2": "1869, not found",
+  "task_3": "not found",
+  "task_4": "David Solomon (Chairman and Chief Executive Officer), John Waldron (President and Chief Operating Officer), Denis Coleman (Chief Financial Officer)",
+  "task_5": "not found"
+}
+```
+```json
+{
+  "task_0": "Create sustainable solutions that improve quality of life and meet society's evolving needs.",
+  "task_1": "fuels, lubricants, chemicals, lower-emissions technologies",
+  "task_2": "1859; Colonel Edwin Drake and Uncle Billy Smith",
+  "task_3": "not found",
+  "task_4": "Darren W. Woods (Chairman and Chief Executive Officer), Neil A. Chapman (Senior Vice President), Kathryn A. Mikells (Senior Vice President and Chief Financial Officer), Jack P. Williams (Senior Vice President)",
+  "task_5": "For the tenth year in a row, ExxonMobil was recognized as ‚ÄúTop in Industry‚Äù for Most Attractive U.S. Employer by the 2022 Universum Annual Awards."
+}
+```
+```json
+{
+  "task_0": "Opening up a world of opportunity",
+  "task_1": "Banking and financial services",
+  "task_2": "Founded in 1865, founders not found",
+  "task_3": "London",
+  "task_4": "Georges Elhedery (Group Chief Executive), Pam Kaur (Group Chief Financial Officer), Aileen Taylor (Group Chief People & Governance Officer), Richard Blackburn (Interim Group Chief Risk and Compliance Officer), Jonathan Calvert-Davies (Group Head of Internal Audit), Bob Hoyt (Group Chief Legal Officer), David Liao (Co-CEO of Asia and Middle East), Barry O‚ÄôByrne (CEO of International Wealth and Premier Banking), Stuart Riley (Group Chief Information Officer), Michael Roberts (CEO of HSBC Bank plc and CEO of Corporate and Institutional Banking), Surendra Rosha (Co-CEO of Asia and Middle East), Ian Stuart (CEO of HSBC UK Bank plc), Suzy White (Group Chief Operating Officer)",
+  "task_5": "Stonewall Top Global Employer, Gold award in its 2023 Global Workplace Equality Index"
+}
+```
+```json
+{
+  "task_0": "Fill the world with emotion, through the power of creativity and technology. Dreams & Curiosity, Diversity, Integrity & Sincerity, Sustainability",
+  "task_1": "Games & Network Services, PlayStation, Sony Interactive Entertainment, Music, Pictures: Movies & TV Shows, Electronics: Entertainment Technology & Services, Consumer Electronics, Professional Products & Solutions, Imaging & Sensing Solutions, Financial Services, New Initiatives (FavoriteSpace, Mobility Initiatives, Airpeak Drone project, Sony AI Inc., aibo, STARSPHERE, Small Optical Link for International Space Station (SOLISS), Sony Global Education, Toio, Triporous)",
+  "task_2": "1946, Masaru Ibuka",
+  "task_3": "not found",
+  "task_4": "not found",
+  "task_5": "World's Most Ethical Companies¬Æ (seven times), Climate Change Leader by CDP (nine times), Gold Award in IAUD International Design Award 2024"
+}
+```
+```json
+{
+  "task_0": "The seven Volkswagen Group Essentials are the foundation of the Group's values and the basis of our common corporate culture: Responsibility, Honesty, Bravery, Diversity, Pride, Solidarity, Reliability.",
+  "task_1": "Automobiles and commercial vehicles; financial services; mobility solutions (ridepooling services).",
+  "task_2": "1937; not found",
+  "task_3": "Wolfsburg, Germany",
+  "task_4": "Dr. Oliver Blume (Chairman), Dr. Arno Antlitz (Finance and Operations, COO), Ralf Brandst√§tter (Member of the board for China), Dr. Gernot D√∂llner (Chairman of the Board of Management at AUDI AG), Dr. Manfred D√∂ss (Integrity and Legal Affairs), Gunnar Kilian (Human Resources and Trucks), Thomas Sch√§fer (CEO of Volkswagen Passenger Cars Brand, Head of Brand Group Core), Thomas Schmall-von Westerholt (Technology), Hauke Stars (IT)",
+  "task_5": "not found"
+}
+```
+Please provide the scraped data.  I need the text of the scraped website to complete the tasks.
+```json
+{
+  "task_0": "Brighten everyday life for all.",
+  "task_1": "Consumer goods including Beauty & Wellbeing, Personal Care, Home Care, Foods, and Ice Cream.",
+  "task_2": "1929; William Hesketh Lever",
+  "task_3": "not found",
+  "task_4": "Fernando Fernandez (Chief Executive Officer), Esi Eggleston Bracey (Chief Growth and Marketing Officer), Eduardo Campanella (Business Group President, Home Care), Reginaldo Ecclissato (President, 1 Unilever Markets), Fabian Garcia (Business Group President, Personal Care), Rohit Jawa (President, CEO & Managing Director, Hindustan Unilever Limited), Priya Nair (Business Group President, Beauty & Wellbeing), Mair√©ad Nayager (Chief People Officer), Heiko Schipper (Business Group President, Foods), Richard Slater (Chief Research & Development Officer), Peter ter Kulve (Business Group President, Ice Cream), Willem Uijen (Chief Supply Chain and Operations Officer), Maria Varsellona (Chief Legal Officer and Group Secretary), Srinivas Phatak (Acting Chief Financial Officer), Ian Meakins (Chair and Non-Executive Director), Andrea Jung (Vice Chair and Senior Independent Director), Adrian Hennah (Non-Executive Director), Susan Kilsby (Non-Executive Director), Ruby Lu (Non-Executive Director), Judith McKenna (Non-Executive Director), Nelson Peltz (Non-Executive Director), Beno√Æt Potier (Non-Executive Director), Zoe Yujnovich (Non-Executive Director)",
+  "task_5": "GlobeScan Sustainability Leaders Survey (ranked number two in 2024), Gartner Supply Chain Top 25 (Masters category for the sixth year running in 2024), WARC Rankings 2024 (Number 1 in #Media100, Number 2 in #Creative100, and Number 2 in #Effectiveness100)"
+}
+```
+********```json
+{
+  "task_0": "Boeing is committed to fostering a culture based on our core values of safety, quality and integrity.",
+  "task_1": "commercial airplanes, defense products and space systems",
+  "task_2": "not found",
+  "task_3": "Seattle, Wash.",
+  "task_4": "Kelly Ortberg President and Chief Executive Officer\nBrian West Chief Financial Officer Executive Vice President, Finance\nStephanie Pope Executive Vice President President and Chief Executive Officer, Boeing Commercial Airplanes\nUma Amuluru Chief Human Resources Officer Executive Vice President, Human Resources\nDana Deasy Chief Information Digital Officer, Senior Vice President, Information Technology &amp; Data Analytics The Boeing Company\nBrett C. Gerry Chief Legal Officer Executive Vice President, Global Compliance\nDarrin A. Hostetler Chief Compliance Officer Vice President, Global Compliance\nHoward McKenzie Chief Engineer and Executive Vice President Engineering, Test &amp; Technology\nBrian Moran Chief Sustainability Officer\nDr. Brendan Nelson President, Boeing Global Senior Vice President\nStephen (Steve) Parker Chief Operating Officer and Interim President and CEO Boeing Defense, Space &amp; Security\nChris Raymond Executive Vice President President and Chief Executive Officer, Boeing Global Services\nDon Ruhmann Chief Aerospace Safety Officer Senior Vice President, Global Aerospace Safety\nAnn M. Schmidt Chief Communications and Brand Officer Senior Vice President, Communications\nJeff Shockey Executive Vice President, Government Operations, Global Public Policy &amp; Corporate Strategy",
+  "task_5": "not found"
+}
+```
+```json
+{
+  'task_0': 'Our Core Values\nWe distilled our Business Principles into four core values that inform everything we do:\nPartnership\nClient Service\nIntegrity\nExcellence',
+  'task_1': 'Investment banking, FICC and Equities franchises, and Asset & Wealth Management (AWM), a leading global active asset manager with a top 5 alternatives business and a premier ultrañhigh net worth wealth management franchise',
+  'task_2': '1869; not found',
+  'task_3': '200 West Street, 29th Floor New York, NY 10282, USA',
+  'task_4': 'David SolomonChairman and Chief Executive Officer\nJohn Waldron - President and Chief Operating Officer\nDenis Coleman - Chief Financial Officer',
+  'task_5': 'not found'
+}
+```
+```json
+{
+  "task_0": "Boeing is committed to fostering a culture based on our core values of safety, quality and integrity.",
+  "task_1": "commercial airplanes, defense products and space systems",
+  "task_2": "not found",
+  "task_3": "Seattle, Wash.",
+  "task_4": "Kelly Ortberg President and Chief Executive Officer\nBrian West Chief Financial Officer Executive Vice President, Finance\nStephanie Pope Executive Vice President President and Chief Executive Officer, Boeing Commercial Airplanes\nUma Amuluru Chief Human Resources Officer Executive Vice President, Human Resources\nDana Deasy Chief Information Digital Officer, Senior Vice President, Information Technology & Data Analytics The Boeing Company\nBrett C. Gerry Chief Legal Officer Executive Vice President, Global Compliance\nDarrin A. Hostetler Chief Compliance Officer Vice President, Global Compliance\nHoward McKenzie Chief Engineer and Executive Vice President Engineering, Test & Technology\nBrian Moran Chief Sustainability Officer\nDr. Brendan Nelson President, Boeing Global Senior Vice President\nStephen (Steve) Parker Chief Operating Officer and Interim President and CEO Boeing Defense, Space & Security\nChris Raymond Executive Vice President President and Chief Executive Officer, Boeing Global Services\nDon Ruhmann Chief Aerospace Safety Officer Senior Vice President, Global Aerospace Safety\nAnn M. Schmidt Chief Communications and Brand Officer Senior Vice President, Communications\nJeff Shockey Executive Vice President, Government Operations, Global Public Policy & Corporate Strategy",
+  "task_5": "not found"
+}
+```
+```json
+{
+  "task_0": "Our Core Values\nWe distilled our Business Principles into four core values that inform everything we do:\nPartnership\nClient Service\nIntegrity\nExcellence",
+  "task_1": "Global Banking &amp; Markets (GBM), which comprises leading Investment banking, FICC and Equities franchises, and Asset &amp; Wealth Management (AWM), a leading global active asset manager with a top 5 alternatives business and a premier ultrañhigh net worth wealth management franchise.",
+  "task_2": "1869; not found",
+  "task_3": "200 West Street, 29th Floor New York, NY 10282, USA",
+  "task_4": "David Solomon\nChairman and Chief Executive Officer\nDenis Coleman - Chief Financial Officer\nJohn Waldron - President and Chief Operating Officer",
+  "task_5": "not found"
+}
+```
+```json
+{
+  "task_0": "We're committed to responsibly meeting societyís evolving energy needs.",
+  "task_1": "energy, chemicals, lubricants, and lower-emissions technologies",
+  "task_2": "1859; Colonel Edwin Drake and Uncle Billy Smith",
+  "task_3": "not found",
+  "task_4": "Darren W. Woods Chairman and Chief Executive Officer",
+  "task_5": "not found"
+}
+```
+```json
+{
+  "task_0": "Opening up a world of opportunity",
+  "task_1": "not found",
+  "task_2": "1865; not found",
+  "task_3": "London",
+  "task_4": "Sir Mark Tucker Group Chairman\nGeorges Elhedery Group Chief Executive\nPam Kaur Group Chief Financial Officer\nAileen Taylor Group Chief People & Governance Officer\nRichard Blackburn Interim Group Chief Risk and Compliance Officer\nJonathan Calvert-Davies Group Head of Internal Audit\nBob Hoyt Group Chief Legal Officer\nDavid Liao Co-CEO of Asia and Middle East\nBarry OíByrne CEO of International Wealth and Premier Banking\nStuart Riley Group Chief Information Officer\nMichael Roberts CEO of HSBC Bank plc and CEO of Corporate and Institutional Banking\nSurendra Rosha Co-CEO of Asia and Middle East\nIan Stuart CEO of HSBC UK Bank plc\nSuzy White Group Chief Operating Officer",
+  "task_5": "Stonewall Top Global Employer, receiving a Gold award in its 2023 Global Workplace Equality Index"
+}
+```
+```json
+{
+  "task_0": "not found",
+  "task_1": "not found",
+  "task_2": "not found",
+  "task_3": "not found",
+  "task_4": "not found",
+  "task_5": "not found"
+}
+```
+```json
+{
+  "task_0": "The seven Group principles, Volkswagen Group Essentials, form the foundation of our values and are an expression of our responsibility towards the world and society. With these principles, we strive for a sustainable future and combine first-class mobility with innovative technologies.",
+  "task_1": "automobiles and commercial vehicles",
+  "task_2": "not found",
+  "task_3": "Wolfsburg, Germany",
+  "task_4": "Members of the Board of Management of Volkswagen AG\nMembers of the Supervisory Board\nCommittees of the Supervisory Board of Volkswagen AG",
+  "task_5": "not found"
+}
+```
+```python
+def extract_company_info(scraped_data):
+    """
+    Extracts key information from scraped company website data.
+
+    Args:
+        scraped_data: A string containing the scraped website content.
+
+    Returns:
+        A dictionary containing the extracted information.  Returns "not found" if 
+        information is not present in the scraped data.
+    """
+
+    extracted_info = {
+        'task_0': 'not found',
+        'task_1': 'not found',
+        'task_2': 'not found',
+        'task_3': 'not found',
+        'task_4': 'not found',
+        'task_5': 'not found'
+    }
+
+    #  This is a placeholder.  Real-world implementation would require 
+    #  sophisticated NLP and potentially regex to accurately extract the 
+    #  information from the unstructured text of scraped_data.
+
+    # Example of how to potentially populate the dictionary (replace with actual extraction logic):
+    if "Our mission is to..." in scraped_data:
+        extracted_info['task_0'] = scraped_data.split("Our mission is to...")[1].split(".")[0]  #Example - needs robust parsing
+    if "We offer products such as:" in scraped_data:
+        extracted_info['task_1'] = scraped_data.split("We offer products such as:")[1].split(".")[0] #Example - needs robust parsing
+    if "Founded in 1990 by John Doe and Jane Smith" in scraped_data:
+        extracted_info['task_2'] = "1990; John Doe and Jane Smith"
+    if "Headquarters: New York City" in scraped_data:
+        extracted_info['task_3'] = "New York City"
+    if "CEO: Alice Brown; CTO: Bob Green" in scraped_data:
+        extracted_info['task_4'] = "CEO: Alice Brown; CTO: Bob Green"
+    if "Won the Innovation Award in 2022" in scraped_data:
+        extracted_info['task_5'] = "Won the Innovation Award in 2022"
+
+
+    return extracted_info
+
+# Example usage (replace with your actual scraped data):
+scraped_data = """
+Our mission is to provide excellent service. We offer products such as widgets and gadgets.
+Founded in 1990 by John Doe and Jane Smith. Headquarters: New York City.
+CEO: Alice Brown; CTO: Bob Green. Won the Innovation Award in 2022.
+"""
+
+extracted_info = extract_company_info(scraped_data)
+print(extracted_info)
+
+scraped_data_2 = "This website has no relevant information."
+extracted_info_2 = extract_company_info(scraped_data_2)
+print(extracted_info_2)
+
+``````json
+{
+  "task_0": "Brighten everyday life for all.",
+  "task_1": "Beauty & Wellbeing Personal Care Home Care Foods Ice Cream",
+  "task_2": "1929; William Hesketh Lever",
+  "task_3": "not found",
+  "task_4": "Fernando FernandezChief Executive Officer\nEsi Eggleston BraceyChief Growth and Marketing Officer\nEduardo CampanellaBusiness Group President, Home Care\nReginaldo EcclissatoPresident, 1 Unilever Markets\nFabian GarciaBusiness Group President, Personal Care\nRohit JawaPresident, CEO & Managing Director, Hindustan Unilever Limited\nPriya NairBusiness Group President, Beauty & Wellbeing\nMairÈad NayagerChief People Officer\nHeiko SchipperBusiness Group President, Foods\nRichard SlaterChief Research & Development Officer\nPeter ter KulveBusiness Group President, Ice Cream\nWillem UijenChief Supply Chain and Operations Officer\nMaria VarsellonaChief Legal Officer and Group Secretary\nSrinivas PhatakActing Chief Financial Officer\nIan MeakinsChair and Non-Executive Director\nAndrea JungVice Chair and Senior Independent Director\nAdrian HennahNon-Executive Director\nSusan KilsbyNon-Executive Director\nRuby LuNon-Executive Director\nJudith McKennaNon-Executive Director\nNelson PeltzNon-Executive Director\nBenoÓt PotierNon-Executive Director\nZoe YujnovichNon-Executive Director",
+  "task_5": "ëDesignated Statusí by the Arts Council England for both the Unilever and United Africa Company collections"
+}
+```
+```json
+{
+  "task_0": "Boeing is committed to fostering a culture based on our core values of safety, quality and integrity.",
+  "task_1": "commercial airplanes, defense products and space systems",
+  "task_2": "not found",
+  "task_3": "not found",
+  "task_4": "Kelly Ortberg President and Chief Executive Officer\nBrian West Chief Financial Officer Executive Vice President, Finance\nStephanie Pope Executive Vice President President and Chief Executive Officer, Boeing Commercial Airplanes\nUma Amuluru Chief Human Resources Officer Executive Vice President, Human Resources\nDana Deasy Chief Information Digital Officer, Senior Vice President, Information Technology & Data Analytics The Boeing Company\nBrett C. Gerry Chief Legal Officer Executive Vice President, Global Compliance\nDarrin A. Hostetler Chief Compliance Officer Vice President, Global Compliance\nHoward McKenzie Chief Engineer and Executive Vice President Engineering, Test & Technology\nBrian Moran Chief Sustainability Officer\nDr. Brendan Nelson President, Boeing Global Senior Vice President\nStephen (Steve) Parker Chief Operating Officer and Interim President and CEO Boeing Defense, Space & Security\nChris Raymond Executive Vice President President and Chief Executive Officer, Boeing Global Services\nDon Ruhmann Chief Aerospace Safety Officer Senior Vice President, Global Aerospace Safety\nAnn M. Schmidt Chief Communications and Brand Officer Senior Vice President, Communications\nJeff Shockey Executive Vice President, Government Operations, Global Public Policy & Corporate Strategy",
+  "task_5": "not found"
+}
+```
+```json
+{
+  "task_0": "Our Core Values\nWe distilled our Business Principles into four core values that inform everything we do:\nPartnership\nClient Service\nIntegrity\nExcellence",
+  "task_1": "Investment banking, FICC and Equities franchises, and Asset & Wealth Management (a leading global active asset manager with a top 5 alternatives business and a premier ultrañhigh net worth wealth management franchise)",
+  "task_2": "1869; not found",
+  "task_3": "200 West Street, 29th Floor New York, NY 10282, USA",
+  "task_4": "David Solomon\nChairman and Chief Executive Officer\nDenis Coleman - Chief Financial Officer\nJohn Waldron - President and Chief Operating Officer",
+  "task_5": "not found"
+}
+```
+```json
+{
+  "task_0": "Our core values\nIntegrity Be honest and ethical Do what is right Care Be respectful and inclusive Look after each other Contribute to the well-being of our communities and the environment Courage Take initiative and make a difference Think boldly and act with conviction Take personal ownership Excellence Hold ourselves to high standards Be thoughtful, thorough and disciplined Resilience Be determined and persevere Be purposeful and steadfast in our principles",
+  "task_1": "We make the products that drive modern transportation, power cities, lubricate industry and provide petrochemical building blocks that lead to thousands of consumer goods.",
+  "task_2": "1859; Colonel Edwin Drake and Uncle Billy Smith",
+  "task_3": "not found",
+  "task_4": "Darren W. Woods Chairman and Chief Executive Officer\nNeil A. Chapman Senior Vice President\nKathryn A. Mikells Senior Vice President and Chief Financial Officer\nJack P. Williams Senior Vice President",
+  "task_5": "not found"
+}
+```
+```json
+{
+  "task_0": "Opening up a world of opportunity",
+  "task_1": "not found",
+  "task_2": "1865; not found",
+  "task_3": "London",
+  "task_4": "Sir Mark Tucker Group Chairman\nGeorges Elhedery Group Chief Executive\nPam Kaur Group Chief Financial Officer\nAileen Taylor Group Chief People & Governance Officer\nRichard Blackburn Interim Group Chief Risk and Compliance Officer\nJonathan Calvert-Davies Group Head of Internal Audit\nBob Hoyt Group Chief Legal Officer\nDavid Liao Co-CEO of Asia and Middle East\nBarry OíByrne CEO of International Wealth and Premier Banking\nStuart Riley Group Chief Information Officer\nMichael Roberts CEO of HSBC Bank plc and CEO of Corporate and Institutional Banking\nSurendra Rosha Co-CEO of Asia and Middle East\nIan Stuart CEO of HSBC UK Bank plc\nSuzy White Group Chief Operating Officer",
+  "task_5": "Stonewall Top Global Employer, receiving a Gold award in its 2023 Global Workplace Equality Index"
+}
+```
+```json
+{
+  "task_0": "not found",
+  "task_1": "not found",
+  "task_2": "not found",
+  "task_3": "not found",
+  "task_4": "not found",
+  "task_5": "not found"
+}
+```
+```json
+{
+  "task_0": "The seven Group principles, Volkswagen Group Essentials, form the foundation of our values and are an expression of our responsibility towards the world and society. With these principles, we strive for a sustainable future and combine first-class mobility with innovative technologies.",
+  "task_1": "automobiles and commercial vehicles",
+  "task_2": "not found",
+  "task_3": "Wolfsburg, Germany",
+  "task_4": "Currently the Board of Management of Volkswagen AG comprises nine members. Each Board Member is responsible for one or more functions within the Volkswagen Group.Dr. Oliver Blume is the Chairman.",
+  "task_5": "not found"
+}
+```
+```python
+def extract_company_info(scraped_data):
+    """
+    Extracts key information from scraped company website data.
+
+    Args:
+        scraped_data: A string containing the scraped website content.
+
+    Returns:
+        A dictionary containing extracted information, or "not found" if 
+        information is missing.  Keys are 'task_0' through 'task_5'.
+    """
+
+    extracted_info = {
+        'task_0': 'not found',
+        'task_1': 'not found',
+        'task_2': 'not found',
+        'task_3': 'not found',
+        'task_4': 'not found',
+        'task_5': 'not found'
+    }
+
+    #  This is a placeholder.  Real-world implementation would involve 
+    #  sophisticated NLP and potentially regex to extract the information
+    #  from the scraped_data string.  The example below shows the structure.
+
+    # Example:  Assume scraped_data contains the following (replace with your actual extraction logic):
+    example_scraped_data = """
+    Our mission is to innovate.  We offer widgets and sprockets. Founded in 1985 by John Doe and Jane Smith.  
+    Headquarters: New York, NY.  CEO:  Alice Johnson.  Won the Widget Award in 2022.
+    """
+    
+    if "Our mission is to" in example_scraped_data:
+        mission_start = example_scraped_data.find("Our mission is to") + len("Our mission is to")
+        mission_end = example_scraped_data.find(".", mission_start)
+        extracted_info['task_0'] = example_scraped_data[mission_start:mission_end]
+
+    if "We offer" in example_scraped_data:
+        products_start = example_scraped_data.find("We offer") + len("We offer")
+        products_end = example_scraped_data.find(".", products_start)
+        extracted_info['task_1'] = example_scraped_data[products_start:products_end]
+
+    if "Founded in" in example_scraped_data:
+        year_start = example_scraped_data.find("Founded in") + len("Founded in")
+        year_end = example_scraped_data.find("by", year_start)
+        founders_start = example_scraped_data.find("by", year_end) + len("by")
+        founders_end = example_scraped_data.find(".", founders_start)
+        extracted_info['task_2'] = example_scraped_data[year_start:year_end].strip() + "; " + example_scraped_data[founders_start:founders_end].strip()
+
+    if "Headquarters:" in example_scraped_data:
+        hq_start = example_scraped_data.find("Headquarters:") + len("Headquarters:")
+        hq_end = example_scraped_data.find(".", hq_start)
+        extracted_info['task_3'] = example_scraped_data[hq_start:hq_end].strip()
+
+    if "CEO:" in example_scraped_data:
+        ceo_start = example_scraped_data.find("CEO:") + len("CEO:")
+        ceo_end = example_scraped_data.find(".", ceo_start)
+        extracted_info['task_4'] = example_scraped_data[ceo_start:ceo_end].strip()
+
+    if "Won the" in example_scraped_data:
+        award_start = example_scraped_data.find("Won the") + len("Won the")
+        award_end = example_scraped_data.find(".", award_start)
+        extracted_info['task_5'] = example_scraped_data[award_start:award_end].strip()
+
+    return extracted_info
+
+# Example usage (replace with your actual scraped data):
+scraped_data = """
+Our mission is to innovate.  We offer widgets and sprockets. Founded in 1985 by John Doe and Jane Smith.  
+Headquarters: New York, NY.  CEO:  Alice Johnson.  Won the Widget Award in 2022.
+"""
+result = extract_company_info(scraped_data)
+print(result)
+
+``````json
+{
+  "task_0": "Brighten everyday life for all.",
+  "task_1": "Beauty & Wellbeing Personal Care Home Care Foods Ice Cream",
+  "task_2": "1871; William Hesketh Lever",
+  "task_3": "not found",
+  "task_4": "Fernando FernandezChief Executive Officer\nEsi Eggleston BraceyChief Growth and Marketing Officer\nEduardo CampanellaBusiness Group President, Home Care\nReginaldo EcclissatoPresident, 1 Unilever Markets\nFabian GarciaBusiness Group President, Personal Care\nRohit JawaPresident, CEO & Managing Director, Hindustan Unilever Limited\nPriya NairBusiness Group President, Beauty & Wellbeing\nMairÈad NayagerChief People Officer\nHeiko SchipperBusiness Group President, Foods\nRichard SlaterChief Research & Development Officer\nPeter ter KulveBusiness Group President, Ice Cream\nWillem UijenChief Supply Chain and Operations Officer\nMaria VarsellonaChief Legal Officer and Group Secretary\nSrinivas PhatakActing Chief Financial Officer\nIan MeakinsChair and Non-Executive Director\nAndrea JungVice Chair and Senior Independent Director\nAdrian HennahNon-Executive Director\nSusan KilsbyNon-Executive Director\nRuby LuNon-Executive Director\nJudith McKennaNon-Executive Director\nNelson PeltzNon-Executive Director\nBenoÓt PotierNon-Executive Director\nZoe YujnovichNon-Executive Director",
+  "task_5": "ëDesignated Statusí by the Arts Council England for both the Unilever and United Africa Company collections"
+}
+```
